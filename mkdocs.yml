@@ -1,0 +1,6 @@
+site_name: contexte-api — public API of Contexte Tech
+site_description: Read-only API to search, read and download the resources of the Contexte Tech catalogue.
+docs_dir: docs
+theme: readthedocs
+nav:
+  - Home: index.md
